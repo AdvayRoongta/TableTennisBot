@@ -17,6 +17,10 @@ Mount for gantry to mcu
 ]
 
 
-[insert pictures of what you're working on!]
+[https://www.google.com/imgres?q=timing%20belt&imgurl=https%3A%2F%2Fwww.fecconsulting.dk%2Fimages%2Fstories%2Fvirtuemart%2Fproduct%2Fhtd_tandrem_i_gummi_timing_belt.webp&imgrefurl=https%3A%2F%2Fwww.fecconsulting.dk%2Fen%2Frubber-timing-belts%2Fhtd-timing-belts%2Ftiming-belts-htd-8m-optibel%2Ftiming-belt-htd-8m-1128-optibelt.html&docid=30Yg8dCHzwHhMM&tbnid=9UG149nHgJ8Y-M&vet=12ahUKEwiGusnew-WNAxUjGDQIHUFVOycQM3oFCIABEAA..i&w=1000&h=1000&hcb=2&ved=2ahUKEwiGusnew-WNAxUjGDQIHUFVOycQM3oFCIABEAA![image](https://github.com/user-attachments/assets/43aade89-3383-4b64-9eb4-b5b0ed51188b)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fus.openbuilds.com%2Fidler-pulley-plate%2F&psig=AOvVaw2_WKV3VcRRSVFtPpaur4NS&ust=1749615590022000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCGwZCA5o0DFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/129a4095-d922-4f57-8fa5-1c147d9728be)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fyuyongindustry.com%2Fproduct%2Fv-slot-nema-17-linear-actuator-bundle%2F&psig=AOvVaw2D7c59vgqqqjgoWHlPNaUr&ust=1749582330572000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCgr56E5Y0DFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/2f00e190-52de-4b49-8df1-410c21da1532)
+
+]
 
 **Total time spent: 2h**
