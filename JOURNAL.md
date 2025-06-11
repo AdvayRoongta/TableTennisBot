@@ -24,3 +24,9 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fyuyongindustry.com%2Fproduct%2
 ]
 
 **Total time spent: 2h**
+
+# June 10th: Started code, time spent: 1hr
+Its in python and so I just wrote the framework with OPenCV. Its only 20ish lines right now. Since i'm using the HoughCirlces function from OpenCV I had to meausure the minimun and maximun pixel radius of a table tennis ball. I took webcam photos from 7 ft and 1 ft away and measured it using this website called ImageJS.
+
+![image](https://github.com/user-attachments/assets/73da225f-646e-4443-92a4-b0fe1988a77c)
+
