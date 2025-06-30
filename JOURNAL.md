@@ -40,5 +40,8 @@ Since the hough transform wasnt working well for farther distances, I used a col
 ![image](https://github.com/user-attachments/assets/2a7acb81-5e66-4f59-993d-5bbe70aefe5f)
 <br>
 
+# June 30: I'm ill
+I've been traveling for the past 2 weeks and fell quite sick a few days ago.
+<br>
 
 
