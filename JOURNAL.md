@@ -43,5 +43,12 @@ Since the hough transform wasnt working well for farther distances, I used a col
 # June 30: I'm ill
 I've been traveling for the past 2 weeks and fell quite sick a few days ago.
 <br>
-
+# July 21: Motor mount done, 4 hours
+I made a mount from the vslot to the motor by using a threaded tnut that goes inside of the vslot extrusion, and then a screw that goes in there. The mount has a threaded hole for the screw, and a larger one for the motor, connected the two. I ran into a few issues about parts not working together such as the first few tnuts I found being too big. Through this proccess I also did a little bit of part sourcing, like finding the exact vslot I will buy when I get the grant :).
+<br>
+<img width="1096" height="701" alt="image" src="https://github.com/user-attachments/assets/51c75429-9a64-402e-bad5-4386d5ea958d" />
+<br>
+<img width="669" height="517" alt="image" src="https://github.com/user-attachments/assets/ba504a15-d5b6-4f6e-8a35-17d1d7bac24b" />
+<br>
+<img width="344" height="233" alt="image" src="https://github.com/user-attachments/assets/312b30ce-5e21-4a80-a08e-657641b113d1" />
 
