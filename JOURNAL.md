@@ -4,6 +4,10 @@ author: "Advay Roongta"
 description: "Robot that moves paddle along 1 axis to return table tennis ball"
 created_at: "June 7 2025"
 ---
+
+# Note:
+I haven't been working on this every single day, so for example the gap between July 21 and 23, I didn't do anything on this during the 22nd.
+
 # June 9th: Just researching and finalized a rough design 
 
 [So heres what I figured out so far about how it will work:
@@ -52,3 +56,17 @@ I made a mount from the vslot to the motor by using a threaded tnut that goes in
 <br>
 <img width="344" height="233" alt="image" src="https://github.com/user-attachments/assets/312b30ce-5e21-4a80-a08e-657641b113d1" />
 
+<br>
+
+# July 23: Fixed motor mount, added table mount: 3.5 hrs
+
+So I first realized my motor mount was a bit flawed because it was only connected to the vslot at one point, which it not too stable, so I added another tnut and screw at the bottom. This fixed the issue, but then a few hours later I realized that having it at the bottom would block the belt from going around the vslot, which is vital, so I had to move it to the side. I also realized that the motor was quite high up, so I just lowered it down to make it centered with the vslot. I also today made the table mount to connect the whole thing to the table. I attached it to one side by using the same bottom platform for the motor, I just made a extrusion downwards and then a screw hole, there is also a screw hole on the top of the mount so they can connect with a screw. Tmrw I will do the idler mount and attach the other table mount. 
+
+
+
+
+
+<img width="694" height="513" alt="image" src="https://github.com/user-attachments/assets/ad7893fd-0947-46be-8ee3-d5cc11c51b4a" />
+<img width="599" height="542" alt="image" src="https://github.com/user-attachments/assets/75b0f543-fa85-492a-90ba-b35b3cc8c97a" />
+
+<img width="413" height="747" alt="image" src="https://github.com/user-attachments/assets/d54cb246-87b7-4d53-b775-f0b246b98e8b" />
