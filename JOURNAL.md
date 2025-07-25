@@ -70,3 +70,9 @@ So I first realized my motor mount was a bit flawed because it was only connecte
 <img width="599" height="542" alt="image" src="https://github.com/user-attachments/assets/75b0f543-fa85-492a-90ba-b35b3cc8c97a" />
 
 <img width="413" height="747" alt="image" src="https://github.com/user-attachments/assets/d54cb246-87b7-4d53-b775-f0b246b98e8b" />
+
+# July 24: Added Idler mount, 1hr
+
+Today I added the idler mount to the other side of the vslot. It works the same way as the motor mount, except it attaches to the idler by going inside it (since it has a hole) rather than around the circumfrence. Didn't do much today but yeah.
+
+<img width="510" height="416" alt="image" src="https://github.com/user-attachments/assets/4846547d-9e09-4cb0-85c4-585a74645ddc" />
