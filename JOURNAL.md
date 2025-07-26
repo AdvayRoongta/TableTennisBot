@@ -76,3 +76,10 @@ So I first realized my motor mount was a bit flawed because it was only connecte
 Today I added the idler mount to the other side of the vslot. It works the same way as the motor mount, except it attaches to the idler by going inside it (since it has a hole) rather than around the circumfrence. Didn't do much today but yeah.
 
 <img width="510" height="416" alt="image" src="https://github.com/user-attachments/assets/4846547d-9e09-4cb0-85c4-585a74645ddc" />
+
+# July 25: Attached other table mount, 1hr
+So today I first attached the other table mount to the other side of the vslot where the idler is. I just made an extrusion down from my idler attachemetn and put a screw hole that can be conncted via a screw to the screw hole on the mount. this is the same way the other one works. I had to dimension the whole thing in a drawing to make sure that the two table mounts were lined up, and uh yeah. The nice thing about my table mount design is that because it uses screws, depending on the length of the screws, the mounts can be moved in parrallel to the table, meaning that no matter what happens, they will be able to fit on the table as long as they are the same height. This is because if the whole vslot system is 4.9 ft but the table is 5ft I can just move the mounts farther towards the screw head (if its facing away from the table) and the vslot system will get longer.
+
+<img width="1374" height="430" alt="image" src="https://github.com/user-attachments/assets/87b4947e-f614-456c-bd16-77f6f05ad481" />
+<img width="521" height="493" alt="image" src="https://github.com/user-attachments/assets/f2354cdb-5e42-4c12-b447-b0b102175a81" />
+
