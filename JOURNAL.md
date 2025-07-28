@@ -47,7 +47,7 @@ Since the hough transform wasnt working well for farther distances, I used a col
 # June 30: I'm ill
 I've been traveling for the past 2 weeks and fell quite sick a few days ago.
 <br>
-# July 21: Motor mount done, 4 hours
+# July 21: Motor mount done, 4 hours (first CAD)
 I made a mount from the vslot to the motor by using a threaded tnut that goes inside of the vslot extrusion, and then a screw that goes in there. The mount has a threaded hole for the screw, and a larger one for the motor, connected the two. I ran into a few issues about parts not working together such as the first few tnuts I found being too big. Through this proccess I also did a little bit of part sourcing, like finding the exact vslot I will buy when I get the grant :).
 <br>
 <img width="1096" height="701" alt="image" src="https://github.com/user-attachments/assets/51c75429-9a64-402e-bad5-4386d5ea958d" />
@@ -82,4 +82,10 @@ So today I first attached the other table mount to the other side of the vslot w
 
 <img width="1374" height="430" alt="image" src="https://github.com/user-attachments/assets/87b4947e-f614-456c-bd16-77f6f05ad481" />
 <img width="521" height="493" alt="image" src="https://github.com/user-attachments/assets/f2354cdb-5e42-4c12-b447-b0b102175a81" />
+
+# July 27: MCU Mount, 1.5 hr
+
+So today I made the mount for my mcu (which has a camera) to the grantry plate I chose. Because I have the mcu already at my house I was able to measure everything and make a simple but working mount that attaches onto the sides. The reason it wont go in the middle is because I dont want to obstuct the Micro USB Port and because the chip on the back of the board bumps out, and I didnt want to waste the fillament. This is sturdy enough by keeping the board straight and attachning from both sides. The reason I didnt make it go around the front of the board more is because it would then block the ports that I will need to connect to my motor. I'm making good progress currently, the only part left to do is the paddle mount, which I think can be done in 1 day of locking in. 
+
+<img width="223" height="571" alt="image" src="https://github.com/user-attachments/assets/8b7ba88b-2d9f-4ee7-8dca-3d5c6c066b85" />
 
