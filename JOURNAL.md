@@ -89,3 +89,6 @@ So today I made the mount for my mcu (which has a camera) to the grantry plate I
 
 <img width="223" height="571" alt="image" src="https://github.com/user-attachments/assets/8b7ba88b-2d9f-4ee7-8dca-3d5c6c066b85" />
 
+<img width="401" height="696" alt="image" src="https://github.com/user-attachments/assets/61ff38de-7722-4bfc-b0d2-ff001905b7a0" />
+
+
