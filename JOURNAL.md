@@ -8,7 +8,7 @@ created_at: "June 7 2025"
 # Note:
 I haven't been working on this every single day, so for example the gap between July 21 and 23, I didn't do anything on this during the 22nd.
 
-# June 9th: Just researching and finalized a rough design 
+# June 9th: Just researching and finalized a rough design, 2hrs
 
 [So heres what I figured out so far about how it will work:
 Nema stepper motor with a keyed belt attachement for the timing belt. The motor will be stationary and the belt will go around the vslot with an idler (wheel) on the other side. Then theres gonna be a gantry (plate) with wheels that gets attched to the belt just by feeding it through the holes on the side and securing it with tape or bands. For ball tracking perhaps an ESP-EYE from Visioneer that goes on top of the gantry plate. Then it could work by recognizing the ball by color and making sure it is in a certain range of x values that will be in the middle, and if the ball is not in that ideal range it will move depending on how out of the range it is.
@@ -85,7 +85,7 @@ So today I first attached the other table mount to the other side of the vslot w
 
 # July 27: MCU Mount, 1.5 hr
 
-So today I made the mount for my mcu (which has a camera) to the grantry plate I chose. Because I have the mcu already at my house I was able to measure everything and make a simple but working mount that attaches onto the sides. The reason it wont go in the middle is because I dont want to obstuct the Micro USB Port and because the chip on the back of the board bumps out, and I didnt want to waste the fillament. This is sturdy enough by keeping the board straight and attachning from both sides. The reason I didnt make it go around the front of the board more is because it would then block the ports that I will need to connect to my motor. I'm making good progress currently, the only part left to do is the paddle mount, which I think can be done in 1 day of locking in. 
+So today I made the mount for my mcu (which has a camera) to the grantry plate I chose. Because I have the mcu already at my house I was able to measure everything and make a simple but working mount that attaches onto the sides. The reason it wont go in the middle is because I dont want to obstuct the Micro USB Port and because the chip on the back of the board bumps out, and I didnt want to waste the fillament. This is sturdy enough by keeping the board straight and attachning from both sides. The reason I didnt make it go around the front of the board more is because it would then block the ports that I will need to connect to my motor. Also, in the gantry plate that i'm going to buy, the holes o the sides are big enough to fit the timing belt. I'm making good progress currently, the only part left to do is the paddle mount, which I think can be done in 1 day of locking in. 
 
 <img width="223" height="571" alt="image" src="https://github.com/user-attachments/assets/8b7ba88b-2d9f-4ee7-8dca-3d5c6c066b85" />
 
