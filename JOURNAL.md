@@ -92,4 +92,12 @@ So today I made the mount for my mcu (which has a camera) to the grantry plate I
 <br>
 <img width="548" height="613" alt="image" src="https://github.com/user-attachments/assets/157ff2eb-d709-4ed7-9655-2407cf4864fe" />
 
+# July 29, Paddle Mount,
 
+
+
+<img width="1124" height="724" alt="image" src="https://github.com/user-attachments/assets/cd0e6cdc-a010-486d-a3fd-5a1bd346d75a" />
+
+<img width="1133" height="770" alt="image" src="https://github.com/user-attachments/assets/516c8108-95ba-433c-9a8e-77207f7ab06f" />
+
+<img width="357" height="389" alt="image" src="https://github.com/user-attachments/assets/f6eef901-731b-4745-99e8-0659e38a6f82" />
