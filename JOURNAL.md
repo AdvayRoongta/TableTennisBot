@@ -92,7 +92,9 @@ So today I made the mount for my mcu (which has a camera) to the grantry plate I
 <br>
 <img width="548" height="613" alt="image" src="https://github.com/user-attachments/assets/157ff2eb-d709-4ed7-9655-2407cf4864fe" />
 
-# July 29, Paddle Mount,
+# July 29, Paddle Mount+ Full assembly, 2hrs
+
+OMFG I AM DONE. Today I worked on my paddle mount and did the complete CAD assembly. Making the m
 
 
 
