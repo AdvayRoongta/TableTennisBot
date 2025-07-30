@@ -103,3 +103,9 @@ OMFG I AM DONE. Today I worked on my paddle mount and did the complete CAD assem
 <img width="1133" height="770" alt="image" src="https://github.com/user-attachments/assets/516c8108-95ba-433c-9a8e-77207f7ab06f" />
 
 <img width="357" height="389" alt="image" src="https://github.com/user-attachments/assets/f6eef901-731b-4745-99e8-0659e38a6f82" />
+# July 30, Firmware, 0.5hr
+
+Just did the firmware and wiring to make the motor move. Today will be the day I also submit, I have now have to do parts sourcing and CAD renders. 
+
+
+<img width="1612" height="1328" alt="image" src="https://github.com/user-attachments/assets/b9500892-ea0a-45ca-ac23-b2698dfa9ee8" />
