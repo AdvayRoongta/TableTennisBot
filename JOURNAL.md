@@ -94,7 +94,7 @@ So today I made the mount for my mcu (which has a camera) to the grantry plate I
 
 # July 29, Paddle Mount+ Full assembly, 2hrs
 
-OMFG I AM DONE. Today I worked on my paddle mount and did the complete CAD assembly. Making the m
+OMFG I AM DONE. Today I worked on my paddle mount and did the complete CAD assembly. First I had to precisley measure my ping pong paddle's handle, which took way longer than it should have, because its not a normal oval or anything (as shown in the sketch picture) I also dont have callipers so I had to use a blue broken transperent half-ruler and constantly convert inches to mm. After that, because my paddle has a hole in it, I cadded a shaft in my mount to go inside the hole for additional grip. For attaching the mount to the gantry, I did it the same way I attached the mcu mount to the gantry, a plate with a screw hole. I had to make these twin bars connecting the plate with screw hole to the mount because they could not be directly jointed, due to the vslot being in the way. I made these bars pretty chunky because the paddle will wheigh a lot and it needs to be stable. For the complete assembly I just imported components and moved them in place. :)
 
 
 
