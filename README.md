@@ -3,6 +3,8 @@
 <h2>This is a 1-axis robot that will play table tennis with me when no one else will.</h2>
 
 <img width="1024" height="694" alt="image" src="https://github.com/user-attachments/assets/7818f7dc-db02-4fcc-95a7-84b55bdee2f5" />
+<img width="606" height="492" alt="image" src="https://github.com/user-attachments/assets/c63b207c-3d51-47a2-885a-ba92e16c3a21" />
+
 
 <br>
 This uses a vslot with a gantry plate on top. Connected to the gantry are my camera and paddle. The gantry will move based on camera input to the motor, which is connected to the gantry via a belt. The goal is to move along one axis to return the ball. The camera uses a simple contour recognition to find the ball and uses the ball's coordinates to see if it in the mid, left or right of the view. (TableTennisBot and TableTennisRobot are interchangable)
