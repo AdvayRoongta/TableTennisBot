@@ -6,7 +6,7 @@
 
 <br>
 
-Most Table Tennis robots are developed at Google Deepmind or MIT. Although they are way better than mine, they cost thousands of dollars to make and develop. I made mine to just return the ball to a simple practice shot, rather than all different possible shots.
+Most Table Tennis robots are developed at Google Deepmind or MIT. Although they are way better than mine, they cost thousands of dollars to make and develop. I made mine to just return the ball to a simple practice shot, rather than all different possible shots. Mine uses a vslot with a gantry plate on top. Connected to the gantry are my camera and paddle. The gantry will move based on camera input to the motor, which is connected to the gantry via a belt. 
 
 
 # It has:
@@ -22,12 +22,12 @@ Most Table Tennis robots are developed at Google Deepmind or MIT. Although they 
 
 <img width="245" height="234" alt="image" src="https://github.com/user-attachments/assets/e42bdf42-21e9-4be6-a05d-0e1456f6d547" />
 
-A Idler Mount
+<h3>A Idler Mount</h3>
 
 <img width="392" height="94" alt="image" src="https://github.com/user-attachments/assets/2e109109-3bba-4f94-a942-ab6bcfa1da1d" />
 
 
-A Motor mount.
-
+<h3>A Motor mount</h3>
 <img width="817" height="628" alt="image" src="https://github.com/user-attachments/assets/c6d4c2a2-1068-4825-8316-878ecd202ef0" />
+
 
