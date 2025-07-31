@@ -18,9 +18,16 @@ Most Table Tennis robots are developed at Google Deepmind or MIT. Although they 
 
 <img width="215" height="516" alt="image" src="https://github.com/user-attachments/assets/5ed289fc-a7bc-45b1-b0dc-56c7da03cd58" />
 
+<h3>A Paddle mount</h3>
 
-A Paddle mount
+<img width="245" height="234" alt="image" src="https://github.com/user-attachments/assets/e42bdf42-21e9-4be6-a05d-0e1456f6d547" />
+
 A Idler Mount
+
+<img width="392" height="94" alt="image" src="https://github.com/user-attachments/assets/2e109109-3bba-4f94-a942-ab6bcfa1da1d" />
+
+
 A Motor mount.
-(All 3d printed (except the MCU)
+
+<img width="817" height="628" alt="image" src="https://github.com/user-attachments/assets/c6d4c2a2-1068-4825-8316-878ecd202ef0" />
 
