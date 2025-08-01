@@ -19,7 +19,7 @@ This uses a vslot with a gantry plate on top. Connected to the gantry are my cam
 
 <img width="215" height="516" alt="image" src="https://github.com/user-attachments/assets/5ed289fc-a7bc-45b1-b0dc-56c7da03cd58" />
 
-<h3>A Paddle mount(the paddle here is much bigger than the one I have irl. The mount if designed to fit my paddle which is smaller. This is just here for the full assembly </h3>
+<h3>A Paddle mount(the paddle here is much bigger than the one I have irl. The mount if designed to fit my paddle which is smaller. This is just here for the full assembly. I will also be using adhesives to connect the paddle to the mount for a more polished project. </h3>
 
 <img width="661" height="446" alt="image" src="https://github.com/user-attachments/assets/10a31978-7a7f-444c-92dc-499676d7d243" />
 
