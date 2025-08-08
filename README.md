@@ -23,6 +23,9 @@ This uses a vslot with a gantry plate on top. Connected to the gantry are my cam
 
 <img width="661" height="446" alt="image" src="https://github.com/user-attachments/assets/10a31978-7a7f-444c-92dc-499676d7d243" />
 
+<img width="550" height="586" alt="image" src="https://github.com/user-attachments/assets/8197b197-72c1-4d52-aea0-2dcf71715dfa" />
+
+
 
 
 <h3>A Idler Mount</h3>
