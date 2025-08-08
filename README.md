@@ -43,6 +43,8 @@ This uses a vslot with a gantry plate on top. Connected to the gantry are my cam
 
 Most Table Tennis robots are developed at Google Deepmind or MIT. Although they are way better than mine, they cost thousands of dollars to make and develop. I made mine to just return the ball to a simple practice shot, rather than all different possible shots. I also really like playing table tennis and there is not always someone to play with me. Practicing by myself is really hard since my garage is cluttered and the balls get lost easily.
 
+<h1>Notes</h1>:
+I have put my full assembly step file in both the production folder and outside of the folder for ease of access
 
 # BOM (Scroll all the way down)
 
