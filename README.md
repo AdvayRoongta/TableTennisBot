@@ -3,7 +3,6 @@
 <h2>This is a 1-axis robot that will play table tennis with me when no one else will.</h2>
 
 <img width="1176" height="732" alt="image" src="https://github.com/user-attachments/assets/bac4010a-583c-41c9-b299-e7f431870cb6" />
-<img width="1176" height="732" alt="image" src="https://github.com/user-attachments/assets/c0c8b61b-d996-4c58-8359-0c9059e39acd" />
 
 
 <br>
