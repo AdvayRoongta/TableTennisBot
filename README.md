@@ -2,8 +2,8 @@
 
 <h2>This is a 1-axis robot that will play table tennis with me when no one else will.</h2>
 
-<img width="1024" height="694" alt="image" src="https://github.com/user-attachments/assets/7818f7dc-db02-4fcc-95a7-84b55bdee2f5" />
-<img width="606" height="492" alt="image" src="https://github.com/user-attachments/assets/c63b207c-3d51-47a2-885a-ba92e16c3a21" />
+<img width="1176" height="732" alt="image" src="https://github.com/user-attachments/assets/bac4010a-583c-41c9-b299-e7f431870cb6" />
+<img width="1176" height="732" alt="image" src="https://github.com/user-attachments/assets/c0c8b61b-d996-4c58-8359-0c9059e39acd" />
 
 
 <br>
@@ -23,7 +23,7 @@ This uses a vslot with a gantry plate on top. Connected to the gantry are my cam
 
 <img width="661" height="446" alt="image" src="https://github.com/user-attachments/assets/10a31978-7a7f-444c-92dc-499676d7d243" />
 
-<img width="550" height="586" alt="image" src="https://github.com/user-attachments/assets/8197b197-72c1-4d52-aea0-2dcf71715dfa" />
+<img width="516" height="545" alt="image" src="https://github.com/user-attachments/assets/1545faa2-9e34-4623-bcc8-e4f5305fc3bb" />
 
 
 
