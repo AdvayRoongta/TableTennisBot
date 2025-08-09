@@ -3,7 +3,7 @@ title: "TABLE TENIS ROBOT"
 author: "Advay Roongta"
 description: "Robot that moves paddle along 1 axis to return table tennis ball"
 created_at: "June 7 2025"
-time_spent: "22 Hours"
+time_spent: "21.5 Hours"
 ---
 
 # Note:
@@ -112,7 +112,7 @@ Just did the firmware and wiring to make the motor move. Today will be the day I
 
 <img width="1612" height="1328" alt="image" src="https://github.com/user-attachments/assets/b9500892-ea0a-45ca-ac23-b2698dfa9ee8" />
 
-# 8/8, Color+Made paddle mount better
+# 8/8, Color+Made paddle mount better.      0.5 hour
 
 I added color to the project, and made the paddle mount have holders for pencils that I will connect to the paddle using VHB to make the connection stronger. I also made the mount thicker. 
 
